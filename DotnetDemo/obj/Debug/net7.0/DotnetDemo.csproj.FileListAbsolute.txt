@@ -1,0 +1,15 @@
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/bin/Debug/net7.0/DotnetDemo
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/bin/Debug/net7.0/DotnetDemo.deps.json
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/bin/Debug/net7.0/DotnetDemo.runtimeconfig.json
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/bin/Debug/net7.0/DotnetDemo.dll
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/bin/Debug/net7.0/DotnetDemo.pdb
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.csproj.AssemblyReference.cache
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.AssemblyInfoInputs.cache
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.AssemblyInfo.cs
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.csproj.CoreCompileInputs.cache
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.dll
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/refint/DotnetDemo.dll
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.pdb
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/DotnetDemo.genruntimeconfig.cache
+/Users/meghnamalla/Projects/DotNetRepo/DotnetDemo/obj/Debug/net7.0/ref/DotnetDemo.dll
